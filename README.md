@@ -1,0 +1,2 @@
+# Sync
+Synchronise two folders
